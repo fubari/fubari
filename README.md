@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @fubari
+- 👀 I’m interested in Robotics, Modeling & Simulation, Software, and Mechanical Engineering.
+- 🌱 I’m currently learning Modelica & C++!
